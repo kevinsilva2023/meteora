@@ -1,0 +1,19 @@
+:root {
+    --dark-color: #000;
+    --white-color: #ccc;
+    --green-color: #daff01;
+    --purple-color: #9353ff;
+}
+.texto-menor {
+    font-size: 13px;
+}
+.facilitys {
+    width: 325px;
+}
+.green-lemon {
+    color: var(--green-color);
+}
+.purple {
+    background: var(--purple-color);
+}
+
